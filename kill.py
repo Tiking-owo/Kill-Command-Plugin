@@ -9,7 +9,7 @@ PLUGIN_METADATA = {
     'name': 'Kill Command Plugin',
     'description': '一个插件，玩家输入!!kill时有随机几率kill自己',
     'author': 'Lc_Tiking',
-    'link': 'https://github.com/Kill-Command-Plugin',
+    'link': 'https://github.com/Tiking-owo/Kill-Command-Plugin',
 }
 
 CONFIG_FILE = 'config/kill.json'
